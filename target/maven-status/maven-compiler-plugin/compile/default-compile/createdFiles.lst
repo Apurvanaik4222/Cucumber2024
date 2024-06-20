@@ -1,0 +1,4 @@
+PageObjects\PageObjectManager.class
+PageObjects\OffersPage.class
+PageObjects\CheckOutPage.class
+PageObjects\LandingPage.class
